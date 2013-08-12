@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  - articles = contents.businesses._.pages
+  article.article
+    dl
+      each article in articles
+        dt
+          a(href=article.url)= article.title
+        dd= article.metadata.tagline

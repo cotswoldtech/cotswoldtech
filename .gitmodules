@@ -1,0 +1,6 @@
+[submodule "src/contents/assets"]
+	path = src/contents/assets
+	url = https://github.com/cotswoldtech/assets.git
+[submodule "src/contents/businesses"]
+	path = src/contents/businesses
+	url = https://github.com/cotswoldtech/businessess.git

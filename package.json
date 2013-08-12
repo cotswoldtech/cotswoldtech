@@ -1,0 +1,24 @@
+{
+  "name": "cotswoldtech",
+  "version": "0.1.0",
+  "description": "A directory of tech businesses in The Cotswolds",
+  "main": "server.js",
+  "dependencies": {
+    "typogr": "~0.5.2",
+    "underscore": "~1.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cotswoldtech/cotswoldtech.git"
+  },
+  "keywords": [
+    "cotswolds",
+    "tech",
+    "startups"
+  ],
+  "author": "onarray Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cotswoldtech/cotswoldtech/issues"
+  }
+}

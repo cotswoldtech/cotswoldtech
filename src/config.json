@@ -1,0 +1,17 @@
+{
+  "locals": {
+    "url": "http://localhost:8080",
+    "name": "Cotswold Tech",
+    "owner": "onarray Ltd",
+    "description": "A directory of tech businesses in The Cotswolds"
+  },
+  "defaultTemplate": "article.jade",
+  "require": {
+    "_": "../node_modules/underscore",
+    "typogr": "../node_modules/typogr"
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  }
+}
