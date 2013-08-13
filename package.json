@@ -6,7 +6,8 @@
   "dependencies": {
     "typogr": "~0.5.2",
     "underscore": "~1.4.4",
-    "wintersmith-stylus": "~0.4.0"
+    "wintersmith-stylus": "~0.4.0",
+    "connect": "~2.8.5"
   },
   "repository": {
     "type": "git",
