@@ -10,8 +10,14 @@
     "_": "../node_modules/underscore",
     "typogr": "../node_modules/typogr"
   },
+  "plugins": [
+    "../node_modules/wintersmith-stylus/"
+  ],
   "markdown": {
     "smartLists": true,
     "smartypants": true
+  },
+  "stylus": {
+    "compress": true
   }
 }
