@@ -2,7 +2,7 @@
   "locals": {
     "url": "http://localhost:8080",
     "name": "Cotswold Tech",
-    "owner": "onarray Ltd",
+    "owner": "onarray",
     "description": "A directory of tech businesses in The Cotswolds"
   },
   "defaultTemplate": "article.jade",

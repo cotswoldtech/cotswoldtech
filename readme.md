@@ -4,7 +4,7 @@ A directory of tech businesses in The Cotswolds.
 
 ## Author
 
-© 2013 onarray Ltd <http://www.onarray.com>
+© 2013 onarray <http://www.onarray.com>
 
 ## License
 
